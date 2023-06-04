@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrikarMaddala
-- 👀 I’m interested in ... AI AND ETHICAL HACKING
-- 🌱 I’m currently learning ... JAVA AND PYTHON
+- 👀 I’m interested in ... AI and Embedded systems
+- 🌱 I’m currently learning ... Web development and Natural anguage processing 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
